@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>SI (5).jpg</filename>
+	<path>C:\Users\Daniel\Desktop\data0\JPEGImages\SI (5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>299</width>
+		<height>299</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>si</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>41</ymin>
+			<xmax>295</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

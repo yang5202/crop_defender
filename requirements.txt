@@ -1,0 +1,10 @@
+torch>=1.3
+torchvision>=0.3
+yacs~=0.1.6
+tqdm~=4.63.0
+opencv-python~=4.3.0.38
+vizer
+setuptools~=58.0.4
+numpy~=1.19.2
+pillow~=8.3.1
+six~=1.16.0
